@@ -1,2 +1,2 @@
 # Pathfinding-Visualizer
-Pathfinidng Algorithm Visualizer program
+Pathfinding Algorithm Visualizer program
